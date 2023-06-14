@@ -6,7 +6,7 @@ Add into config/connection.js
 
 ```js
 
-db = "genius-gym";
+db = "mastercamp-store-server;
 user = "root";
 pw = "pwd";
 host = "localhost";
