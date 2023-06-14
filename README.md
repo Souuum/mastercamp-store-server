@@ -1,11 +1,5 @@
-# genius-gym-server
 
-Back-End repo for our Web Project at the University of Concordia
-See :
-
-
-https://github.com/Souuum/genius-gym
-
+# mastercamp-store-server
 
 Add into config/connection.js
 
